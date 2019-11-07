@@ -1,0 +1,14 @@
+C:\Users\Adminuser\source\repos\SquareLib\ConsoleApp\bin\Debug\netcoreapp2.1\ConsoleApp.deps.json
+C:\Users\Adminuser\source\repos\SquareLib\ConsoleApp\bin\Debug\netcoreapp2.1\ConsoleApp.runtimeconfig.json
+C:\Users\Adminuser\source\repos\SquareLib\ConsoleApp\bin\Debug\netcoreapp2.1\ConsoleApp.runtimeconfig.dev.json
+C:\Users\Adminuser\source\repos\SquareLib\ConsoleApp\bin\Debug\netcoreapp2.1\ConsoleApp.dll
+C:\Users\Adminuser\source\repos\SquareLib\ConsoleApp\bin\Debug\netcoreapp2.1\ConsoleApp.pdb
+C:\Users\Adminuser\source\repos\SquareLib\ConsoleApp\bin\Debug\netcoreapp2.1\SquareLib.dll
+C:\Users\Adminuser\source\repos\SquareLib\ConsoleApp\bin\Debug\netcoreapp2.1\SquareLib.pdb
+C:\Users\Adminuser\source\repos\SquareLib\ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Adminuser\source\repos\SquareLib\ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Adminuser\source\repos\SquareLib\ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Adminuser\source\repos\SquareLib\ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp.AssemblyInfo.cs
+C:\Users\Adminuser\source\repos\SquareLib\ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp.csproj.CopyComplete
+C:\Users\Adminuser\source\repos\SquareLib\ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp.dll
+C:\Users\Adminuser\source\repos\SquareLib\ConsoleApp\obj\Debug\netcoreapp2.1\ConsoleApp.pdb
